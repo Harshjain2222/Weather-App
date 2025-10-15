@@ -29,7 +29,7 @@ A simple weather application built with **React**, **Vite**, and the **OpenWeath
   **Clone this repository:**
 
 ```bash
-git clone https://github.com/ranjeet-singh45/weather-app.git
+git clone https://github.com/Harshjain2222/weather-app.git
 cd weather-app
 ```
 
